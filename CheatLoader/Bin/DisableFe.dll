@@ -1,0 +1,4 @@
+while true do
+  game.Workspace_FE:Destroy()
+  print(" Fe Disabled Enojoy :D")
+end
